@@ -1,292 +1,248 @@
-<p align="left">
-    <span>
+<div class="Box-sc-g0xbh4-0 bJMeLZ js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><p align="left" dir="auto">
+    <span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
         中文
-    </span>
-    <span> • </span>
-    <a href="README_en.md">
-        English
-    </a>
+    </font></font></span>
+    <span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">•</font></font></span>
+    <a href="/yuanxiaoming8899/Umi-OCR-cn/blob/main/README_en.md"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+        英语
+    </font></font></a>
 </p>
-
-<p align="center">
+<p align="center" dir="auto">
   <a href="https://github.com/hiroi-sora/Umi-OCR">
-    <img width="200" height="128" src="https://tupian.li/images/2022/10/27/icon---256.png" alt="Umi-OCR">
+    <img width="200" height="128" src="https://camo.githubusercontent.com/92c9904a83c113fbd9967d9679f9648ce529c48e7f405dc6ff186454c0adc78d/68747470733a2f2f74757069616e2e6c692f696d616765732f323032322f31302f32372f69636f6e2d2d2d3235362e706e67" alt="Umi-OCR" data-canonical-src="https://tupian.li/images/2022/10/27/icon---256.png" style="max-width: 100%;">
   </a>
 </p>
-
-<h1 align="center">Umi-OCR 文字识别工具</h1>
-
-<p align="center">
+<h1 align="center" tabindex="-1" dir="auto"><a id="user-content-umi-ocr-文字识别工具" class="anchor" aria-hidden="true" tabindex="-1" href="#umi-ocr-文字识别工具"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Umi-OCR文字识别工具</font></font></h1>
+<p align="center" dir="auto">
   <a href="https://github.com/hiroi-sora/Umi-OCR/releases/latest">
-    <img src="https://img.shields.io/github/v/release/hiroi-sora/Umi-OCR?style=flat-square" alt="Umi-OCR">
+    <img src="https://camo.githubusercontent.com/0443e4fa1d5b47dc5013cf094e1196e7c43456fff46e9de7b439ff9e4822bb37/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f762f72656c656173652f6869726f692d736f72612f556d692d4f43523f7374796c653d666c61742d737175617265" alt="Umi-OCR" data-canonical-src="https://img.shields.io/github/v/release/hiroi-sora/Umi-OCR?style=flat-square" style="max-width: 100%;">
   </a>
-  <a href="License">
-    <img src="https://img.shields.io/github/license/hiroi-sora/Umi-OCR?style=flat-square" alt="LICENSE">
+  <a href="/yuanxiaoming8899/Umi-OCR-cn/blob/main/License">
+    <img src="https://camo.githubusercontent.com/3bca7f6a38119eacbc3302998c59cb68bf36940b9df40738563cfc1890d302c7/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f6869726f692d736f72612f556d692d4f43523f7374796c653d666c61742d737175617265" alt="执照" data-canonical-src="https://img.shields.io/github/license/hiroi-sora/Umi-OCR?style=flat-square" style="max-width: 100%;">
   </a>
   <a href="#下载">
-    <img src="https://img.shields.io/github/downloads/hiroi-sora/Umi-OCR/total?style=flat-square" alt="forks">
+    <img src="https://camo.githubusercontent.com/fc073ad434d21440f27b260ffe996aef6c435e8e65e89b14f725e5d7bce5e6f9/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f646f776e6c6f6164732f6869726f692d736f72612f556d692d4f43522f746f74616c3f7374796c653d666c61742d737175617265" alt="叉子" data-canonical-src="https://img.shields.io/github/downloads/hiroi-sora/Umi-OCR/total?style=flat-square" style="max-width: 100%;">
   </a>
-  <a href="https://star-history.com/#hiroi-sora/Umi-OCR">
-    <img src="https://img.shields.io/github/stars/hiroi-sora/Umi-OCR?style=flat-square" alt="stars">
+  <a href="https://star-history.com/#hiroi-sora/Umi-OCR" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/5a7c6600bca23328a0face9a124e4561417a9be2bf7ee381995b1d9490e6164c/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f73746172732f6869726f692d736f72612f556d692d4f43523f7374796c653d666c61742d737175617265" alt="星星" data-canonical-src="https://img.shields.io/github/stars/hiroi-sora/Umi-OCR?style=flat-square" style="max-width: 100%;">
   </a>
   <a href="https://github.com/hiroi-sora/Umi-OCR/forks">
-    <img src="https://img.shields.io/github/forks/hiroi-sora/Umi-OCR?style=flat-square" alt="forks">
+    <img src="https://camo.githubusercontent.com/782572749bfca98c52b2a118a9e9b23a911c171a90e2650fc1cc31d42b47f9eb/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f666f726b732f6869726f692d736f72612f556d692d4f43523f7374796c653d666c61742d737175617265" alt="叉子" data-canonical-src="https://img.shields.io/github/forks/hiroi-sora/Umi-OCR?style=flat-square" style="max-width: 100%;">
   </a>
 </p>
-
-<div align="center">
-  <h3>
-    <a href="#说明目录">
+<div align="center" dir="auto">
+  <h3 tabindex="-1" dir="auto"><a id="user-content-----------使用说明--------------------下载地址--------------------更新日志--------------------提交bug------" class="anchor" aria-hidden="true" tabindex="-1" href="#----------使用说明--------------------下载地址--------------------更新日志--------------------提交bug------"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>
+    <a href="#说明目录"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
       使用说明
-    </a>
-    <span> • </span>
-    <a href="#下载">
+    </font></font></a>
+    <span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">•</font></font></span>
+    <a href="#下载"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
       下载地址
-    </a>
-    <span> • </span>
-    <a href="#更新日志">
+    </font></font></a>
+    <span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">•</font></font></span>
+    <a href="#更新日志"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
       更新日志
-    </a>
-    <span> • </span>
-    <a href="https://github.com/hiroi-sora/Umi-OCR/issues">
+    </font></font></a>
+    <span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">•</font></font></span>
+    <a href="https://github.com/hiroi-sora/Umi-OCR/issues"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
       提交Bug
-    </a>
+    </font></font></a>
   </h3>
 </div>
 <br>
-
-<div align="center">
-  <strong>免费，开源，可批量的离线OCR软件</strong><br>
-  <sub>适用于 Windows7 x64 及以上</sub>
+<div align="center" dir="auto">
+  <strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">免费、开源、可批量的离线OCR软件</font></font></strong><br>
+  <sub><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">适用于Windows7 x64及以上</font></font></sub>
 </div><br>
-
-- **免费**：本项目所有代码开源，完全免费。
-- **方便**：解压即用，离线运行，无需网络。
-- **高效**：自带高效率离线OCR引擎。只要电脑性能足够，可以比在线OCR服务更快。
-- **灵活**：支持命令行、HTTP接口等多种调用方式。
-- **功能**：截图OCR / 批量OCR / 二维码 / 公式识别（[测试中](https://github.com/hiroi-sora/Umi-OCR/issues/254)） / PDF识别（[测试中](https://github.com/hiroi-sora/Umi-OCR/releases)）
-
-<p align="center"><img src="https://tupian.li/images/2023/11/19/65599097ab5f4.png" alt="1-标题-1.png" style="width: 80%;"></p>
-
-![1-标题-2.png](https://tupian.li/images/2023/11/19/6559909fdeeba.png)
-
-## 目录
-
-- [截图识别](#截图OCR)
-  - [段落合并](#段落合并) - 优化不同文字排版
-- [批量识别](#批量OCR)
-  - [忽略区域](#忽略区域) - 排除截图水印处的文字
-- [二维码](#二维码) 支持扫码或生成二维码图片
-- [文档识别](#文档识别) 从PDF扫描件中提取文本，或转为双层可搜索PDF
-- [全局设置](#全局设置) 添加更多PP-OCR支持的语言模型库！
-- [命令行调用](docs/README_CLI.md)
-- [HTTP接口](docs/README_HTTP.md)
-- [构建项目](#构建项目)
-
-## 使用源码
-
-开发者请务必阅读 [构建项目](#构建项目) 。
-
-## 下载发行版
-
-可选择以下方式下载：
-
-- **GitHub** https://github.com/hiroi-sora/Umi-OCR/releases/latest
-- **蓝奏云** https://hiroi-sora.lanzoul.com/s/umi-ocr
-- **Source Forge** https://sourceforge.net/projects/umi-ocr
-
-## 开始使用
-
-软件发布包下载为 `.7z` 压缩包或 `.7z.exe` 自解压包。自解压包可在没有安装压缩软件的电脑上，解压文件。
-
-本软件无需安装。解压后，点击 `Umi-OCR.exe` 即可启动程序。
-
-遇到任何问题，请提 [Issue](https://github.com/hiroi-sora/Umi-OCR/issues) ，我会尽可能帮助你。
-
-## 界面语言
-
-Umi-OCR 支持的界面多国语言。在第一次打开软件时，将会按照你的电脑的系统设置，自动切换语言。
-
-如果需要手动切换语言，请参考下图，`全局设置`→`语言/Language` 。
-
-<p align="center"><img src="https://tupian.li/images/2023/11/19/65599c3f9e600.png" alt="1-标题-1.png" style="width: 80%;"></p>
-
-## 标签页
-
-Umi-OCR v2 由一系列灵活好用的**标签页**组成。您可按照自己的喜好，打开需要的标签页。
-
-标签栏左上角可以切换**窗口置顶**。右上角能够**锁定标签页**，以防止日常使用中误触关闭标签页。
-
-### 截图OCR
-
-<p align="center"><img src="https://tupian.li/images/2023/11/19/65599097aba8e.png" alt="2-截图-1.png" style="width: 80%;"></p>
-
-**截图OCR**：打开这一页后，就可以用快捷键唤起截图，识别图中的文字。
-- 左侧的图片预览栏，可直接用鼠标划选复制。
-- 右侧的识别记录栏，可以编辑文字，允许划选多个记录复制。
-- 也支持在别处复制图片，粘贴到Umi-OCR进行识别。
-
-#### 段落合并
-
-<p align="center"><img src="https://tupian.li/images/2023/11/19/6559909f3e378.png" alt="2-截图-2.png" style="width: 80%;"></p>
-
-关于 **OCR文本后处理 - 段落合并**： 可以整理OCR结果的排版和顺序，使文本更适合阅读和使用。预设方案：
-  - **单行**：合并同一行的文字，适合绝大部分情景。
-  - **多行-自然段**：智能识别、合并属于同一段落的文字，适合绝大部分情景，如上图所示。
-  - **多行-代码段**：尽可能还原原始排版的缩进与空格。适合识别代码片段，或需要保留空格的场景。
-  - **竖排**：适合竖排排版。需要与同样支持竖排识别的模型库配合使用。
-
----
-
-### 批量OCR
-
-<p align="center"><img src="https://tupian.li/images/2023/11/19/655990a2511e0.png" alt="3-批量-1.png" style="width: 80%;"></p>
-
-**批量OCR**：这一页支持批量导入本地图片并识别。
-- 识别内容可以保存为 txt / jsonl / md / csv(Excel) 等多种格式。
-- 支持`文本后处理`技术，能识别属于同一自然段的文字，并将其合并。还支持代码段、竖排文本等多种处理方案。
-- 没有数量上限，可一次性导入几百张图片进行任务。
-- 支持任务完成后自动关机/待机。
-
-#### 忽略区域
-
-<p align="center"><img src="https://tupian.li/images/2023/11/19/6559911d28be7.png" alt="3-批量-2.png" style="width: 80%;"></p>
-
-关于 **OCR文本后处理 - 忽略区域**： 批量OCR中的一种特殊功能，适用于排除图片中的不想要的文字。
-- 在批量识别页的右栏设置中可进入忽略区域编辑器。
-- 如上方样例，图片顶部和右下角存在多个水印 / LOGO。如果批量识别这类图片，水印会对识别结果造成干扰。
-- 按住右键，绘制多个矩形框。这些区域内的文字将在任务中被忽略。
-- 请尽量将矩形框画得大一些，完全包裹住水印所有可能出现的位置。
-
----
-
-### 二维码
-
-<p align="center"><img src="https://tupian.li/images/2023/11/19/655991268d6b1.png" alt="4-二维码-1.png" style="width: 80%;"></p>
-
-**扫码**：
-- 可截图/粘贴/拖入本地图片，读取其中的二维码、条形码。
-- 支持一图多码。
-- 支持19种协议，如下：
-
-`Aztec`,`Codabar`,`Code128`,`Code39`,`Code93`,`DataBar`,`DataBarExpanded`,`DataMatrix`,`EAN13`,`EAN8`,`ITF`,`LinearCodes`,`MatrixCodes`,`MaxiCode`,`MicroQRCode`,`PDF417`,`QRCode`,`UPCA`,`UPCE`,
-
-<p align="center"><img src="https://tupian.li/images/2023/11/19/6559911cda737.png" alt="4-二维码-2.png" style="width: 80%;"></p>
-
-**生成码**：
-- 输入文本，生成二维码图片。
-- 支持19种协议和**纠错等级**等参数。
-
----
-
-### 文档识别
-
-<p align="center"><img src="https://github.com/hiroi-sora/Umi-OCR/assets/56373419/fc2266ee-b9b7-4079-8b10-6610e6da6cf5" alt="" style="width: 80%;"></p>
-
-仅在 [最新测试版](https://github.com/hiroi-sora/Umi-OCR/releases) 中支持。
-
-**文档识别**：
-- 支持导入`pdf, xps, epub, mobi, fb2, cbz`格式的文件。
-- 支持识别扫描件，转为文本文件（支持所有格式文档）或**可搜索双层PDF**（仅支持原文件为pdf格式）。
-- 支持设定忽略区域，可排除页眉页脚的文字。
-
----
-
-### 全局设置
-
-<p align="center"><img src="https://tupian.li/images/2023/11/19/655991252e780.png" alt="5-全局设置-1.png" style="width: 80%;"></p>
-
-**全局设置**：在这里可以调整软件的全局参数。常用功能如下：
-- 一键添加快捷方式或设置开机自启。
-- 更改界面**语言**。Umi支持繁中、英 语、日语等语言。
-- 切换界面**主题**。Umi拥有多个亮/暗主题。
-- 调整界面**文字的大小**和**字体**。
-- 切换OCR插件。
-- **渲染器**：软件界面默认支持显卡加速渲染。如果在你的机器上出现截屏闪烁、UI错位的情况，请调整`界面和外观` → `渲染器` ，尝试切换到不同渲染方案，或关闭硬件加速。
-
----
-
-## 调用接口：
-
-- 命令行手册： [README_CLI.md](docs/README_CLI.md)
-- HTTP接口手册： [README_HTTP.md](docs/README_HTTP.md)
-
-## 协助软件界面翻译
-
-参见 [dev-tools/i18n](dev-tools/i18n)
-
-## 开发计划
-
+<ul dir="auto">
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">免费</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：本项目所有开源代码，完全免费。</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">方便</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：解压即用，离线运行，消耗网络。</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">高效</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：自带高效率离线OCR引擎。只要电脑性能足够，就可以比在线OCR服务更快。</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">灵活</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：支持命令行、HTTP接口等多种调用方式。</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">功能</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：截图OCR / 批量OCR / 二维码 / 公式识别（</font></font><a href="https://github.com/hiroi-sora/Umi-OCR/issues/254" data-hovercard-type="issue" data-hovercard-url="/hiroi-sora/Umi-OCR/issues/254/hovercard"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">测试中</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">） / PDF识别（</font></font><a href="https://github.com/hiroi-sora/Umi-OCR/releases"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">测试中</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）</font></font></li>
+</ul>
+<p align="center" dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/7035ea39367b7395bdbf8b286c1bf98a7b0256bf886f1f263c123c116ac1cb66/68747470733a2f2f74757069616e2e6c692f696d616765732f323032332f31312f31392f363535393930393761623566342e706e67"><img src="https://camo.githubusercontent.com/7035ea39367b7395bdbf8b286c1bf98a7b0256bf886f1f263c123c116ac1cb66/68747470733a2f2f74757069616e2e6c692f696d616765732f323032332f31312f31392f363535393930393761623566342e706e67" alt="1-标题-1.png" style="width: 80%; max-width: 100%;" data-canonical-src="https://tupian.li/images/2023/11/19/65599097ab5f4.png"></a></p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/79dde1b882c7b83fe862f36c4742d9417c8c2d73a82d2dad00d8a89fe90cff50/68747470733a2f2f74757069616e2e6c692f696d616765732f323032332f31312f31392f363535393930396664656562612e706e67"><img src="https://camo.githubusercontent.com/79dde1b882c7b83fe862f36c4742d9417c8c2d73a82d2dad00d8a89fe90cff50/68747470733a2f2f74757069616e2e6c692f696d616765732f323032332f31312f31392f363535393930396664656562612e706e67" alt="1-标题-2.png" data-canonical-src="https://tupian.li/images/2023/11/19/6559909fdeeba.png" style="max-width: 100%;"></a></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content-目录" class="anchor" aria-hidden="true" tabindex="-1" href="#目录"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">目录</font></font></h2>
+<ul dir="auto">
+<li><a href="#%E6%88%AA%E5%9B%BEOCR"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">截图识别</font></font></a>
+<ul dir="auto">
+<li><a href="#%E6%AE%B5%E8%90%BD%E5%90%88%E5%B9%B6"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">段落合并</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 优化不同文字排版</font></font></li>
+</ul>
+</li>
+<li><a href="#%E6%89%B9%E9%87%8FOCR"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">批量识别</font></font></a>
+<ul dir="auto">
+<li><a href="#%E5%BF%BD%E7%95%A5%E5%8C%BA%E5%9F%9F"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">忽略区域</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-排除截图水印处的文字</font></font></li>
+</ul>
+</li>
+<li><a href="#%E4%BA%8C%E7%BB%B4%E7%A0%81"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">二维码</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">支持扫码或生成二维码图片</font></font></li>
+<li><a href="#%E6%96%87%E6%A1%A3%E8%AF%86%E5%88%AB"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文档识别</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">从 PDF 扫描件中提取文本，或转为可搜索的 PDF</font></font></li>
+<li><a href="#%E5%85%A8%E5%B1%80%E8%AE%BE%E7%BD%AE"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">全局设置</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">添加更多PP-OCR支持的语言模型库！</font></font></li>
+<li><a href="/yuanxiaoming8899/Umi-OCR-cn/blob/main/docs/README_CLI.md"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">命令行调用</font></font></a></li>
+<li><a href="/yuanxiaoming8899/Umi-OCR-cn/blob/main/docs/README_HTTP.md"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">HTTP接口</font></font></a></li>
+<li><a href="#%E6%9E%84%E5%BB%BA%E9%A1%B9%E7%9B%AE"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">构建项目</font></font></a></li>
+</ul>
+<h2 tabindex="-1" dir="auto"><a id="user-content-使用源码" class="anchor" aria-hidden="true" tabindex="-1" href="#使用源码"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用源码</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">开发者请务必阅读</font></font><a href="#%E6%9E%84%E5%BB%BA%E9%A1%B9%E7%9B%AE"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">构建项目</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content-下载发行版" class="anchor" aria-hidden="true" tabindex="-1" href="#下载发行版"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">下载发行版</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">可选择以下方式下载：</font></font></p>
+<ul dir="auto">
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">GitHub </font></font></strong> <a href="https://github.com/hiroi-sora/Umi-OCR/releases/latest"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://github.com/hiroi-sora/Umi-OCR/releases/latest</font></font></a></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">蓝奏云</font></font></strong> <a href="https://hiroi-sora.lanzoul.com/s/umi-ocr" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://hiroi-sora.lanzoul.com/s/umi-ocr</font></font></a></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Source Forge </font></font></strong> <a href="https://sourceforge.net/projects/umi-ocr" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://sourceforge.net/projects/umi-ocr</font></font></a></li>
+</ul>
+<h2 tabindex="-1" dir="auto"><a id="user-content-开始使用" class="anchor" aria-hidden="true" tabindex="-1" href="#开始使用"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">开始使用</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">软件发布包下载为</font></font><code>.7z</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">压缩包或</font></font><code>.7z.exe</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">自解压包。自解压包可在没有安装压缩软件的电脑上，解压文件。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">本软件无需安装。解压后，点击</font></font><code>Umi-OCR.exe</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">即可启动程序。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">遇到任何问题，请提</font></font><a href="https://github.com/hiroi-sora/Umi-OCR/issues"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">问题</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">，我会帮助你。</font></font></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content-界面语言" class="anchor" aria-hidden="true" tabindex="-1" href="#界面语言"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">界面语言</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Umi-OCR支持多国界面。在第一次打开软件时，将会按照您电脑的系统语言设置，自动切换语言。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果需要手动切换语言，请参考下图，</font></font><code>全局设置</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">→ </font></font><code>语言/Language</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
+<p align="center" dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/afc39c93396605cc3f8f315aad2906da413cba081cf7b250f43a6e7c699dca19/68747470733a2f2f74757069616e2e6c692f696d616765732f323032332f31312f31392f363535393963336639653630302e706e67"><img src="https://camo.githubusercontent.com/afc39c93396605cc3f8f315aad2906da413cba081cf7b250f43a6e7c699dca19/68747470733a2f2f74757069616e2e6c692f696d616765732f323032332f31312f31392f363535393963336639653630302e706e67" alt="1-标题-1.png" style="width: 80%; max-width: 100%;" data-canonical-src="https://tupian.li/images/2023/11/19/65599c3f9e600.png"></a></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content-标签页" class="anchor" aria-hidden="true" tabindex="-1" href="#标签页"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">标签页</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Umi-OCR v2由一系列灵活好用的</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">标签页</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">组成。您可以按照自己的喜好，打开需要的标签页。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">标签栏左上角可以切换</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">窗口置顶</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。右上角能够</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">锁定标签页</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">，以防止日常使用中误触关闭标签页。</font></font></p>
+<h3 tabindex="-1" dir="auto"><a id="user-content-截图ocr" class="anchor" aria-hidden="true" tabindex="-1" href="#截图ocr"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">截图OCR</font></font></h3>
+<p align="center" dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/9c2f03d064521e4891a71379d2f4138f69f10ab455655047e7f5c2bc7522934e/68747470733a2f2f74757069616e2e6c692f696d616765732f323032332f31312f31392f363535393930393761626138652e706e67"><img src="https://camo.githubusercontent.com/9c2f03d064521e4891a71379d2f4138f69f10ab455655047e7f5c2bc7522934e/68747470733a2f2f74757069616e2e6c692f696d616765732f323032332f31312f31392f363535393930393761626138652e706e67" alt="2-截图-1.png" style="width: 80%; max-width: 100%;" data-canonical-src="https://tupian.li/images/2023/11/19/65599097aba8e.png"></a></p>
+<p dir="auto"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">截图OCR</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：打开本页后，就可以用快捷键调起截图，识别出的文字。</font></font></p>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">右侧的图片预览栏，可直接用鼠标划选复制。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">右侧的识别记录栏，可以编辑文字，划选多个记录复制。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">也支持在别处复制图片，粘贴到Umi-OCR进行识别。</font></font></li>
+</ul>
+<h4 tabindex="-1" dir="auto"><a id="user-content-段落合并" class="anchor" aria-hidden="true" tabindex="-1" href="#段落合并"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">段落合并</font></font></h4>
+<p align="center" dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/61427421ec0e2717ee3da5fbf026b7a52fea9a72ea06636956df6b880a93b108/68747470733a2f2f74757069616e2e6c692f696d616765732f323032332f31312f31392f363535393930396633653337382e706e67"><img src="https://camo.githubusercontent.com/61427421ec0e2717ee3da5fbf026b7a52fea9a72ea06636956df6b880a93b108/68747470733a2f2f74757069616e2e6c692f696d616765732f323032332f31312f31392f363535393930396633653337382e706e67" alt="2-截图-2.png" style="width: 80%; max-width: 100%;" data-canonical-src="https://tupian.li/images/2023/11/19/6559909f3e378.png"></a></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">关于</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">OCR文本后期处理 - 段落合并</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：可以整理OCR结果的排版和顺序，使文本更适合阅读和使用。默认方案：</font></font></p>
+<ul dir="auto">
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">单行</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：合并同一行的文字，适合情景。</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">多行自然段</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：智能识别、合并属于相同段落的文字，适合场景场景，如上图所示。</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">多行代码段</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：要求原始排版的压缩进与空格。适合识别代码片段，或需要保留空格的场景。</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">竖排</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：适合竖排版本。需要同样支持竖排识别的模型库搭配使用。</font></font></li>
+</ul>
+<hr>
+<h3 tabindex="-1" dir="auto"><a id="user-content-批量ocr" class="anchor" aria-hidden="true" tabindex="-1" href="#批量ocr"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">批量OCR</font></font></h3>
+<p align="center" dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/8895a24aadd36893886b70f1e79ace0b649b7bf8d01e1dbdd12d0c9794398ce6/68747470733a2f2f74757069616e2e6c692f696d616765732f323032332f31312f31392f363535393930613235313165302e706e67"><img src="https://camo.githubusercontent.com/8895a24aadd36893886b70f1e79ace0b649b7bf8d01e1dbdd12d0c9794398ce6/68747470733a2f2f74757069616e2e6c692f696d616765732f323032332f31312f31392f363535393930613235313165302e706e67" alt="3-批量-1.png" style="width: 80%; max-width: 100%;" data-canonical-src="https://tupian.li/images/2023/11/19/655990a2511e0.png"></a></p>
+<p dir="auto"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">批量OCR</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：此页支持批量导入本地图片并识别。</font></font></p>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">识别内容可以保存为txt / jsonl / md / csv(Excel)等多种格式。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">支持</font></font><code>文本后处理</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">技术，能够识别属于同一自然段的文字，并将其合并。还支持代码段、垂直排列文本等多种处理方案。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">没有数量上限，可一次性导入几十张图片进行任务。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">支持任务完成后自动关闭/处理。</font></font></li>
+</ul>
+<h4 tabindex="-1" dir="auto"><a id="user-content-忽略区域" class="anchor" aria-hidden="true" tabindex="-1" href="#忽略区域"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">忽略区域</font></font></h4>
+<p align="center" dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c0c5264f3e132df8f68ca888163adb347ff0be29ccaf16c6a4754e537c07bafb/68747470733a2f2f74757069616e2e6c692f696d616765732f323032332f31312f31392f363535393931316432386265372e706e67"><img src="https://camo.githubusercontent.com/c0c5264f3e132df8f68ca888163adb347ff0be29ccaf16c6a4754e537c07bafb/68747470733a2f2f74757069616e2e6c692f696d616765732f323032332f31312f31392f363535393931316432386265372e706e67" alt="3-批量-2.png" style="width: 80%; max-width: 100%;" data-canonical-src="https://tupian.li/images/2023/11/19/6559911d28be7.png"></a></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">关于</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">OCR文本后处理-忽略区域</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：批量OCR中的一种特殊功能，适用于排除图片中不需要的文字。</font></font></p>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在批量识别页的右栏设置中可进入忽略区域编辑器。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如上方样例，图片顶部和右下角存在多个水印/LOGO。如果批量识别出此类图片，水印就会识别结果造成干扰。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">按住右侧，多个预定框。这些区域内的文字将在任务中被忽略。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">请尽量将图形框画得大部分，完全包围住水印所有可能出现的位置。</font></font></li>
+</ul>
+<hr>
+<h3 tabindex="-1" dir="auto"><a id="user-content-二维码" class="anchor" aria-hidden="true" tabindex="-1" href="#二维码"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">二维码</font></font></h3>
+<p align="center" dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/262e5f17a10dd1abb13aa7cc0457e81460e80d578c2c43b4c65adfe616f45783/68747470733a2f2f74757069616e2e6c692f696d616765732f323032332f31312f31392f363535393931323638643662312e706e67"><img src="https://camo.githubusercontent.com/262e5f17a10dd1abb13aa7cc0457e81460e80d578c2c43b4c65adfe616f45783/68747470733a2f2f74757069616e2e6c692f696d616765732f323032332f31312f31392f363535393931323638643662312e706e67" alt="4-二维码-1.png" style="width: 80%; max-width: 100%;" data-canonical-src="https://tupian.li/images/2023/11/19/655991268d6b1.png"></a></p>
+<p dir="auto"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">扫码</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：</font></font></p>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">可读取截图/粘贴/拖入本地图片，其中的二维码、条形码。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">支持一图多码。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">支持19种协议，如下：</font></font></li>
+</ul>
+<p dir="auto"><code>Aztec</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">,,,,,,,,,,,,,,,,,,,,,,,,,,,, </font></font><code>Codabar</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">_ </font></font><code>Code128</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">_ </font></font><code>Code39</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">_ </font></font><code>Code93</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">_ </font></font><code>DataBar</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">_ </font></font><code>DataBarExpanded</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">_ </font></font><code>DataMatrix</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">_ </font></font><code>EAN13</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">_ </font></font><code>EAN8</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">_ </font></font><code>ITF</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">_ </font></font><code>LinearCodes</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">_ </font></font><code>MatrixCodes</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">_ </font></font><code>MaxiCode</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">_ </font></font><code>MicroQRCode</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">_ </font></font><code>PDF417</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">_ </font></font><code>QRCode</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">_ </font></font><code>UPCA</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">_ </font></font><code>UPCE</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">_</font></font></p>
+<p align="center" dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e08be64899dbb70ad78a0b8a98194c0d1b814a4ac0c21a4f80baa6bf75e538d8/68747470733a2f2f74757069616e2e6c692f696d616765732f323032332f31312f31392f363535393931316364613733372e706e67"><img src="https://camo.githubusercontent.com/e08be64899dbb70ad78a0b8a98194c0d1b814a4ac0c21a4f80baa6bf75e538d8/68747470733a2f2f74757069616e2e6c692f696d616765732f323032332f31312f31392f363535393931316364613733372e706e67" alt="4-二维码-2.png" style="width: 80%; max-width: 100%;" data-canonical-src="https://tupian.li/images/2023/11/19/6559911cda737.png"></a></p>
+<p dir="auto"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">生成码</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：</font></font></p>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">输入文本，生成二维码图片。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">支持19种协议和</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">纠错等级</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">等参数。</font></font></li>
+</ul>
+<hr>
+<h3 tabindex="-1" dir="auto"><a id="user-content-文档识别" class="anchor" aria-hidden="true" tabindex="-1" href="#文档识别"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文档识别</font></font></h3>
+<p align="center" dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/56373419/300035291-fc2266ee-b9b7-4079-8b10-6610e6da6cf5.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDY0MzMzNzAsIm5iZiI6MTcwNjQzMzA3MCwicGF0aCI6Ii81NjM3MzQxOS8zMDAwMzUyOTEtZmMyMjY2ZWUtYjliNy00MDc5LThiMTAtNjYxMGU2ZGE2Y2Y1LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTI4VDA5MTExMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWM1MTRjMzkzY2E0OTg5YzRlMzYxZGQwY2Y0ZmI0NTlhNGQ0YTYxZTAyNTRkMGQ1OTAzZGYyZWJkNTc3OTAyZjkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.dY9uJhs70VikRKskURO51ar5dir1tcbRqs-_p-a7yWI"><img src="https://private-user-images.githubusercontent.com/56373419/300035291-fc2266ee-b9b7-4079-8b10-6610e6da6cf5.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDY0MzMzNzAsIm5iZiI6MTcwNjQzMzA3MCwicGF0aCI6Ii81NjM3MzQxOS8zMDAwMzUyOTEtZmMyMjY2ZWUtYjliNy00MDc5LThiMTAtNjYxMGU2ZGE2Y2Y1LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTI4VDA5MTExMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWM1MTRjMzkzY2E0OTg5YzRlMzYxZGQwY2Y0ZmI0NTlhNGQ0YTYxZTAyNTRkMGQ1OTAzZGYyZWJkNTc3OTAyZjkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.dY9uJhs70VikRKskURO51ar5dir1tcbRqs-_p-a7yWI" alt="" style="width: 80%; max-width: 100%;"></a></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">仅在</font></font><a href="https://github.com/hiroi-sora/Umi-OCR/releases"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">最新测试版本</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">中支持。</font></font></p>
+<p dir="auto"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文档识别</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：</font></font></p>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">支持导入</font></font><code>pdf, xps, epub, mobi, fb2, cbz</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">格式的文件。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">支持识别扫描件，转为文本文件（支持所有格式文档）或</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">可搜索PDF</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（仅支持原文件为pdf格式）。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">支持设置忽略区域，可排除页眉页脚的文字。</font></font></li>
+</ul>
+<hr>
+<h3 tabindex="-1" dir="auto"><a id="user-content-全局设置" class="anchor" aria-hidden="true" tabindex="-1" href="#全局设置"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">全局设置</font></font></h3>
+<p align="center" dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/15b0ce91573e52b948256a69b5ef67328029d49438876db0eedb6c3357696640/68747470733a2f2f74757069616e2e6c692f696d616765732f323032332f31312f31392f363535393931323532653738302e706e67"><img src="https://camo.githubusercontent.com/15b0ce91573e52b948256a69b5ef67328029d49438876db0eedb6c3357696640/68747470733a2f2f74757069616e2e6c692f696d616765732f323032332f31312f31392f363535393931323532653738302e706e67" alt="5-全局设置-1.png" style="width: 80%; max-width: 100%;" data-canonical-src="https://tupian.li/images/2023/11/19/655991252e780.png"></a></p>
+<p dir="auto"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">全局设置</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：这里可以调整软件的全局参数。常用功能如下：</font></font></p>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">一键添加快捷方式或设置开机自启动。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">更改界面</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">语言</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。Umi支持繁中、英语、日语等语言。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">切换界面</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">主题</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。Umi拥有多个亮/暗主题。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">调整界面</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文字的大小</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">和</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">字体</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">切换 OCR 插件。</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">渲染器</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：软件界面默认支持显卡加速渲染。如果在你的机器上出现断屏提示、UI错位的情况，请调整</font></font><code>界面和外观</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">→ </font></font><code>渲染器</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">，尝试切换到不同的渲染方案，或者关闭硬件加速。</font></font></li>
+</ul>
+<hr>
+<h2 tabindex="-1" dir="auto"><a id="user-content-调用接口" class="anchor" aria-hidden="true" tabindex="-1" href="#调用接口"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">调用接口：</font></font></h2>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">命令行手册：</font></font><a href="/yuanxiaoming8899/Umi-OCR-cn/blob/main/docs/README_CLI.md"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">README_CLI.md</font></font></a></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">HTTP接口手册：</font></font><a href="/yuanxiaoming8899/Umi-OCR-cn/blob/main/docs/README_HTTP.md"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">README_HTTP.md</font></font></a></li>
+</ul>
+<h2 tabindex="-1" dir="auto"><a id="user-content-协助软件界面翻译" class="anchor" aria-hidden="true" tabindex="-1" href="#协助软件界面翻译"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">帮助软件界面翻译</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">参见</font></font><a href="/yuanxiaoming8899/Umi-OCR-cn/blob/main/dev-tools/i18n"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">dev-tools/i18n</font></font></a></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content-开发计划" class="anchor" aria-hidden="true" tabindex="-1" href="#开发计划"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">开发计划</font></font></h2>
 <details>
-<summary>已完成的工作</summary>
-
-- 标签页框架。
-- OCR API控制器。
-- OCR 任务控制器。
-- 主题管理器，支持切换浅色/深色主题主题。
-- 实现 **批量OCR**。
-- 实现 **截图OCR**。
-- 快捷键机制。
-- 系统托盘菜单。
-- 文本块后处理（排版优化）。
-- 引擎内存清理。
-- 软件界面多国语言。
-- 命令行模式。
-- Win7兼容。
-- Excel（csv）输出格式。
-- `Esc`中断截图操作
-- 外置主题文件
-- 字体切换
-- 加载动画
-- 忽略区域。
-- 二维码识别。
-- 批量识别页面的图片预览窗口。
-
+<summary><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">已完成工作</font></font></summary>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">标签页面框架。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">OCR API控制器。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">OCR任务控制器。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">主题管理器，支持切换浅色/深度主题主题。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">实现</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">批量OCR</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">实现</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">截图OCR</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">快捷键。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">系统托盘菜单。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文本块后期处理（排版优化）。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">引擎内存清理。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">软件界面多国语言。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">命令行模式。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Win7兼容。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Excel（csv）输出格式。</font></font></li>
+<li><code>Esc</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">中断操作截图</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">外置主题文件</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">字体切换</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">加载动画</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">忽略区域。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">二维码识别。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">批量识别页面的图片预览窗口。</font></font></li>
+</ul>
 </details>
-
-
-##### 近期开发计划
-
-近期准备进行的工作，将会在 v2 头几个版本内逐步上线。
-
-- [x] PDF识别
-- [ ] 图片翻译
-
-##### 远期计划
-
+<h5 tabindex="-1" dir="auto"><a id="user-content-近期开发计划" class="anchor" aria-hidden="true" tabindex="-1" href="#近期开发计划"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">近期开发计划</font></font></h5>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">近期准备进行的工作，将会在 v2 头几个版本内逐步上线。</font></font></p>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">PDF识别</font></font></li>
+<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">图片翻译</font></font></li>
+</ul>
+<h5 tabindex="-1" dir="auto"><a id="user-content-远期计划" class="anchor" aria-hidden="true" tabindex="-1" href="#远期计划"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">远期计划</font></font></h5>
 <details>
-<summary>展开</summary>
-
-这些是预想中的功能，在开发初期已预留好接口，将在远期慢慢实现。
-
-但开发途中受限于实际情况，可能更改功能设计、新增及取消功能。
-
-- 基于GPU的离线OCR。
-- 离线翻译。
-- 插件系统。
-- 固定区域识别。
-- 识别表格图片，输出为Excel。
-- 根据系统的深/浅模式，自动切换主题。
-- 历史记录系统。
-- 兼容 MacOS / Ubuntu 等平台。
-
+<summary><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">展开</font></font></summary>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">这些是预想中的功能，在开发初期已准备好接口，将在很长一段时间内慢慢实现。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">但开发方案根据实际情况，可能更改功能设计、新增及取消功能。</font></font></p>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">基于GPU的离线OCR。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">离线翻译。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">插件系统。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">区域固定识别。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">识别表格图片，输出为Excel。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">根据系统的深/浅模式，自动切换主题。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">历史记录系统。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">兼容MacOS / Ubuntu等平台。</font></font></li>
+</ul>
 </details>
-
-
-## 关于项目结构
-
-### 各仓库：
-
-- [主仓库](https://github.com/hiroi-sora/Umi-OCR) 👈
-- [插件库](https://github.com/hiroi-sora/Umi-OCR_plugins)
-- [Win 运行库](https://github.com/hiroi-sora/Umi-OCR_runtime_windows)
-
-### 工程结构：
-
-`**` 后缀表示本仓库(`主仓库`)包含的内容。
-
-```
-Umi-OCR
+<h2 tabindex="-1" dir="auto"><a id="user-content-关于项目结构" class="anchor" aria-hidden="true" tabindex="-1" href="#关于项目结构"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">关于项目结构</font></font></h2>
+<h3 tabindex="-1" dir="auto"><a id="user-content-各仓库" class="anchor" aria-hidden="true" tabindex="-1" href="#各仓库"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">各仓库：</font></font></h3>
+<ul dir="auto">
+<li><a href="https://github.com/hiroi-sora/Umi-OCR"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">主仓库</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">👈</font></font></li>
+<li><a href="https://github.com/hiroi-sora/Umi-OCR_plugins"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">插件库</font></font></a></li>
+<li><a href="https://github.com/hiroi-sora/Umi-OCR_runtime_windows"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Win运行库</font></font></a></li>
+</ul>
+<h3 tabindex="-1" dir="auto"><a id="user-content-工程结构" class="anchor" aria-hidden="true" tabindex="-1" href="#工程结构"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">工程结构：</font></font></h3>
+<p dir="auto"><code>**</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">后缀表示本仓库( </font></font><code>主仓库</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">)包含的内容。</font></font></p>
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre class="notranslate"><code>Umi-OCR
 ├─ Umi-OCR.exe
 └─ UmiOCR-data
    ├─ main.py **
@@ -303,34 +259,52 @@ Umi-OCR
    │  └─ 插件
    └─ i18n **
       └─ 翻译文件
-```
-
-支持的离线OCR引擎：
-
-- [PaddleOCR-json](https://github.com/hiroi-sora/PaddleOCR-json)
-- [RapidOCR-json](https://github.com/hiroi-sora/RapidOCR-json)
-
-运行环境框架：
-
-- [PyStand](https://github.com/skywind3000/PyStand) 定制版
-
-## 构建项目
-
-### 第零步：（可选）fork本项目
-
-### 第一步：下载代码
-
-请参考 [更新日志](CHANGE_LOG.md) 开头的说明。
-
-### 后续步骤：
-
-对于不同平台（虽然现在只有Windows），需要不同的运行环境。
-
-- [Windows](https://github.com/hiroi-sora/Umi-OCR_runtime_windows)
-- 跨平台的支持筹备中
-
-请跳转上述仓库，完成对应平台的开发/运行环境部署。
-
-本项目也拥有非常简易的一键打包脚本，在以上仓库中查看。
-
-## [更新日志](CHANGE_LOG.md)
+</code></pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="Umi-OCR
+├─ Umi-OCR.exe
+└─ UmiOCR-data
+   ├─ main.py **
+   ├─ version.py **
+   ├─ site-packages
+   │  └─ python包
+   ├─ runtime
+   │  └─ python解释器
+   ├─ qt_res **
+   │  └─ 项目qt资源，包括图标和qml源码
+   ├─ py_src **
+   │  └─ 项目python源码
+   ├─ plugins
+   │  └─ 插件
+   └─ i18n **
+      └─ 翻译文件" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">支持的离线OCR引擎：</font></font></p>
+<ul dir="auto">
+<li><a href="https://github.com/hiroi-sora/PaddleOCR-json"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">PaddleOCR-json</font></font></a></li>
+<li><a href="https://github.com/hiroi-sora/RapidOCR-json"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">RapidOCR-json</font></font></a></li>
+</ul>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">运行环境框架：</font></font></p>
+<ul dir="auto">
+<li><a href="https://github.com/skywind3000/PyStand"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">PyStand</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">定制版</font></font></li>
+</ul>
+<h2 tabindex="-1" dir="auto"><a id="user-content-构建项目" class="anchor" aria-hidden="true" tabindex="-1" href="#构建项目"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">构建项目</font></font></h2>
+<h3 tabindex="-1" dir="auto"><a id="user-content-第零步可选fork本项目" class="anchor" aria-hidden="true" tabindex="-1" href="#第零步可选fork本项目"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">第零步：（可选）fork本项目</font></font></h3>
+<h3 tabindex="-1" dir="auto"><a id="user-content-第一步下载代码" class="anchor" aria-hidden="true" tabindex="-1" href="#第一步下载代码"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">第一步：下载代码</font></font></h3>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">请参考</font></font><a href="/yuanxiaoming8899/Umi-OCR-cn/blob/main/CHANGE_LOG.md"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">记载引用</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">的说明。</font></font></p>
+<h3 tabindex="-1" dir="auto"><a id="user-content-后续步骤" class="anchor" aria-hidden="true" tabindex="-1" href="#后续步骤"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">步骤后续：</font></font></h3>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">对于不同的平台（虽然现在只有Windows），需要不同的运行环境。</font></font></p>
+<ul dir="auto">
+<li><a href="https://github.com/hiroi-sora/Umi-OCR_runtime_windows"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">视窗</font></font></a></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">跨平台的支持筹建中</font></font></li>
+</ul>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">请跳转上述仓库，完成对应平台的开发/运行环境配置。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">本项目也拥有非常简单的一键配置脚本，在以上仓库中查看。</font></font></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content-更新日志" class="anchor" aria-hidden="true" tabindex="-1" href="#更新日志"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><a href="/yuanxiaoming8899/Umi-OCR-cn/blob/main/CHANGE_LOG.md"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">添加日志</font></font></a></h2>
+</article></div>
